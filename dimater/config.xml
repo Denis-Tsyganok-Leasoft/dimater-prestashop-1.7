@@ -2,7 +2,7 @@
 <module>
 	<name>dimater</name>
 	<displayName><![CDATA[Dimater Payments]]></displayName>
-	<version><![CDATA[1.0.2.1]]></version>
+	<version><![CDATA[1.2.3.4]]></version>
 	<description><![CDATA[Accept payments for your products using Dimater Payments. Install this module first]]></description>
 	<author><![CDATA[Ginger Payments]]></author>
 	<tab><![CDATA[payments_gateways]]></tab>
