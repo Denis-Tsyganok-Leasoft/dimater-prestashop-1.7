@@ -2,7 +2,7 @@
 <module>
     <name>dimatercreditcard</name>
     <displayName><![CDATA[Dimater Payments - Credit Card]]></displayName>
-    <version></version>
+    <version><![CDATA[1.0.2.1]]></version>
     <description><![CDATA[Accept payments in your webshop using Credit Card.]]></description>
     <author><![CDATA[Ginger Payments]]></author>
     <tab><![CDATA[payments_gateways]]></tab>
